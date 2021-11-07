@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubbi20&show_icons=true&locale=en&layout=compact" alt="shubbi20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubbi20&show_icons=true&locale=en" alt="shubbi20" /></p>
+
+<img align='center'  height="70" alt="thanks" width="100%" src="https://github.com/shubbi20/shubbi20/blob/main/stylee.svg"/> 
