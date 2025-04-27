@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Negi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubbi20&label=Profile%20views&color=0e75b6&style=flat" alt="shubbi20" /> </p>
 
-- 🦾 BackEnd Developer at Rentickle
+- 🦾 SDE 2 at Acefone
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubbi20?tab=repositories](https://github.com/shubbi20?tab=repositories)
 
